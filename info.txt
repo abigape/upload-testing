@@ -1,0 +1,7 @@
+Create repo on github
+Link to some local directory
+Add files to local directory
+Open repo in Guthub desktop
+Put in a summary message
+Commit to master
+Publish to Github
